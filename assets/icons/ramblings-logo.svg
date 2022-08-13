@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ramblings-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ramblings-logo" fill-rule="nonzero">
+            <path d="M0,0 L13.5,0 C20.9558441,-1.36961635e-15 27,6.04415588 27,13.5 C27,20.9558441 20.9558441,27 13.5,27 L0,27 L0,27 L0,0 Z" id="Rectangle" fill="#295C7C"></path>
+            <path d="M0,4 L10,4 C15.5228475,4 20,8.4771525 20,14 C20,19.5228475 15.5228475,24 10,24 L0,24 L0,24 L0,4 Z" id="Rectangle-Copy-2" fill="#134C70"></path>
+            <polygon id="Rectangle" fill="#00DC82" points="0 0 30 30 0 30"></polygon>
+            <polygon id="Rectangle-Copy" fill="#00B168" points="0 16 14 30 0 30"></polygon>
+        </g>
+    </g>
+</svg>

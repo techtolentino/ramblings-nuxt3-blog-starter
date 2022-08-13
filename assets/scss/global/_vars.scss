@@ -1,0 +1,42 @@
+// spacing
+$spacing-01: 0.125rem;
+$spacing-02: 0.25rem;
+$spacing-03: 0.5rem;
+$spacing-04: 0.75rem;
+$spacing-05: 1rem;
+$spacing-06: 1.5rem;
+$spacing-07: 2rem;
+$spacing-08: 2.5rem;
+$spacing-09: 3rem;
+$spacing-10: 4rem;
+$spacing-11: 5rem;
+$spacing-12: 6rem;
+$spacing-13: 10rem;
+
+// colors
+$accent: #0ab26c;
+$primary: #295C7C;
+$gray: #E7E7E7;
+$dark-gray: #A1A1A1;
+$black: #171717;
+$white: #F2F2F2;
+
+// breakpoints
+$xs: 23.5em;
+$sm: 36em;
+$md: 48em;
+$lg: 62em;
+$gl: 64em;
+$xl: 75em;
+
+$col-sm: 540px;
+$col-md: 720px;
+$col-lg: 960px;
+$col-xl: 1140px;
+
+$breakpoints: (
+  sm: $sm,
+  md: $md,
+  lg: $lg,
+  xl: $xl
+);

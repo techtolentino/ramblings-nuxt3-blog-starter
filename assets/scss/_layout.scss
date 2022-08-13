@@ -1,0 +1,26 @@
+// layout
+.container {
+  position: relative;
+  margin: 0 auto;
+  padding-right: $spacing-08;
+  padding-left: $spacing-08;
+  width: 100%;
+
+  @include mq(sm) {
+   max-width: $col-sm;
+   padding-right: $spacing-04;
+   padding-left: $spacing-04;
+  }
+
+  @include mq(md) {
+     max-width: $col-md;
+  }
+
+  @include mq(lg) {
+     max-width: $col-lg;
+  }
+
+  @include mq(xl) {
+     max-width: $col-xl;
+  }
+}
